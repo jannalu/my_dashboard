@@ -4,8 +4,8 @@ Blue Nile Jewelry Customer Dashboard
 
 ![image 2](images/dashboard2.png)
 
-![image 3](images/dashboard2.png)
+![image 3](images/dashboard3.png)
 
-![image 4](images/dashboard2.png)
+![image 4](images/dashboard4.png)
 
 
